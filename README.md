@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Dexxtroall
-- 👀 I’m interested in ... aprender
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dexxtroall/Dexxtroall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apasionado por la seguridad ofensiva y el análisis de sistemas operativos. Experiencia en la creación de orquestadores de seguridad que integran motores de firmas y análisis de comportamiento en tiempo real. Dedicado a desmantelar vectores de ataque complejos, desde inyecciones en memoria hasta tácticas de evasión de AV/EDR. Mi meta es fortalecer la infraestructura digital mediante el pensamiento crítico y el código eficiente.
